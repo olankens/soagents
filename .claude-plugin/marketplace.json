@@ -1,0 +1,14 @@
+{
+  "name": "soagents",
+  "owner": {
+    "name": "olankens"
+  },
+  "plugins": [
+    {
+      "name": "soagents",
+      "source": "./",
+      "description": "...",
+      "version": "0.0.0"
+    }
+  ]
+}

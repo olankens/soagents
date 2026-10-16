@@ -1,0 +1,20 @@
+{
+  "name": "soagents",
+  "version": "0.0.0",
+  "description": "...",
+  "author": {
+    "name": "olankens"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "soagents",
+    "shortDescription": "...",
+    "longDescription": "...",
+    "developerName": "olankens",
+    "category": "...",
+    "capabilities": [
+      "..."
+    ],
+    "defaultPrompt": ""
+  }
+}
